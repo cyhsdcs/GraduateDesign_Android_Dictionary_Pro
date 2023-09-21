@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">字典prof.</string>
+    <string name="app_name_1">小 语 种 发 音 字 典</string>
+    <string name="app_name_2">专 家 端</string>
+
+    <string name="start_record">开始录音</string>
+    <string name="stop_record">停止录音</string>
+    <string name="restart_record">重新录音</string>
+    <string name="record_time">00:00:00</string>
+    <string name="play">试听</string>
+
+    <string name="language">语种</string>
+
+    <string name="language_example">请输入小语种的名称</string>
+    <string name="str">字词</string>
+    <string name="str_example">请输入要录入的文字</string>
+    <string name="confirm">确认</string>
+    <string name="sign">音标</string>
+    <string name="sign_example">请输入读音音标，用数字代替声调</string>
+    <string name="check_if_recorded">检测是否已经录入</string>
+    <string name="is_record_needed">是否需要继续录制？</string>
+    <string name="play_voice">播放发音</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+
+    <string name="check_notice">检测到字词在当前语种下已经录入</string>
+
+
+
+</resources>
